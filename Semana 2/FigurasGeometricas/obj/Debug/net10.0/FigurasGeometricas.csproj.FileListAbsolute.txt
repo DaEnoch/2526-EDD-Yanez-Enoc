@@ -1,0 +1,15 @@
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\bin\Debug\net10.0\FigurasGeometricas.exe
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\bin\Debug\net10.0\FigurasGeometricas.deps.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\bin\Debug\net10.0\FigurasGeometricas.runtimeconfig.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\bin\Debug\net10.0\FigurasGeometricas.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\bin\Debug\net10.0\FigurasGeometricas.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.sourcelink.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\refint\FigurasGeometricas.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\FigurasGeometricas.genruntimeconfig.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 2\FigurasGeometricas\obj\Debug\net10.0\ref\FigurasGeometricas.dll
