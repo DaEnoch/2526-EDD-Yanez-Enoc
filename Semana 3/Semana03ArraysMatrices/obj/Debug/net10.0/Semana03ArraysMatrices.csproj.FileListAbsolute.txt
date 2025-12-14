@@ -1,0 +1,15 @@
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\bin\Debug\net10.0\Semana03ArraysMatrices.exe
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\bin\Debug\net10.0\Semana03ArraysMatrices.deps.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\bin\Debug\net10.0\Semana03ArraysMatrices.runtimeconfig.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\bin\Debug\net10.0\Semana03ArraysMatrices.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\bin\Debug\net10.0\Semana03ArraysMatrices.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.sourcelink.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\refint\Semana03ArraysMatrices.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\Semana03ArraysMatrices.genruntimeconfig.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 3\Semana03ArraysMatrices\obj\Debug\net10.0\ref\Semana03ArraysMatrices.dll
