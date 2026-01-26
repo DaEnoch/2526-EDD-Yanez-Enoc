@@ -1,0 +1,15 @@
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\bin\Debug\net10.0\ActividadSemana7.exe
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\bin\Debug\net10.0\ActividadSemana7.deps.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\bin\Debug\net10.0\ActividadSemana7.runtimeconfig.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\bin\Debug\net10.0\ActividadSemana7.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\bin\Debug\net10.0\ActividadSemana7.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.sourcelink.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\refint\ActividadSemana7.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ActividadSemana7.genruntimeconfig.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 7\ActividadSemana7\obj\Debug\net10.0\ref\ActividadSemana7.dll
