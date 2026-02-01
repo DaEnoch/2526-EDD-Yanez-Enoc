@@ -1,0 +1,15 @@
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\bin\Debug\net10.0\NavegadorPila.exe
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\bin\Debug\net10.0\NavegadorPila.deps.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\bin\Debug\net10.0\NavegadorPila.runtimeconfig.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\bin\Debug\net10.0\NavegadorPila.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\bin\Debug\net10.0\NavegadorPila.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.sourcelink.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\refint\NavegadorPila.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\NavegadorPila.genruntimeconfig.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 8\NavegadorPila\obj\Debug\net10.0\ref\NavegadorPila.dll
