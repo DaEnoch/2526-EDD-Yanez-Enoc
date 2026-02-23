@@ -1,0 +1,15 @@
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\bin\Debug\net10.0\VacunacionSets.exe
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\bin\Debug\net10.0\VacunacionSets.deps.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\bin\Debug\net10.0\VacunacionSets.runtimeconfig.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\bin\Debug\net10.0\VacunacionSets.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\bin\Debug\net10.0\VacunacionSets.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.sourcelink.json
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\refint\VacunacionSets.dll
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.pdb
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\VacunacionSets.genruntimeconfig.cache
+C:\Users\LENOVO.USER\Documents\GitHub\2526-EDD-Yanez-Enoc\Semana 10\VacunacionSets\obj\Debug\net10.0\ref\VacunacionSets.dll
